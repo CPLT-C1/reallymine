@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/CPLT-C1/command"
-	"github.com/CPLT-C1//decryptloop"
+	"github.com/CPLT-C1/decryptloop"
 	"github.com/CPLT-C1/disk"
 )
 
