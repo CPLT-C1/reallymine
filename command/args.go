@@ -10,9 +10,9 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/andlabs/reallymine/decryptloop"
-	"github.com/andlabs/reallymine/disk"
-	"github.com/andlabs/reallymine/kek"
+	"github.com/CPLT-C1/reallymine/decryptloop"
+	"github.com/CPLT-C1/reallymine/disk"
+	"github.com/CPLT-C1/reallymine/kek"
 )
 
 // DiskSize is passed as the size parameter to disk.Open() when an
