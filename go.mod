@@ -1,4 +1,4 @@
-module github.com/CPLT-C1/reallymine
+module github.com/andlabs/reallymine
 
 go 1.15
 
