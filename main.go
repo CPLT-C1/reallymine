@@ -7,9 +7,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/CPLT-C1/command"
-	"github.com/CPLT-C1/decryptloop"
-	"github.com/CPLT-C1/disk"
+	"github.com/CPLT-C1/reallymine/command"
+	"github.com/CPLT-C1/reallymine/decryptloop"
+	"github.com/CPLT-C1/reallymine/disk"
 )
 
 func errf(format string, args ...interface{}) {
